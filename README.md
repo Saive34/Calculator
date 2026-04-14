@@ -1,7 +1,11 @@
 # Calculator
 This is a basic calculator on c++
-
-* / for division
-* + for add
-* - for subtraction
-* * for multiply
+## supported operations
+* '/' **for division**
+* '+' **for add**
+* '-' **for subtraction**
+* '*' **for multiply**
+## Features:
+* Infinite loop until you type `quit`.
+* Protection against division by zero.
+* Fast and lightweight.
