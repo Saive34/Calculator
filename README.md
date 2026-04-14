@@ -11,5 +11,5 @@ This is a basic calculator on c++
 * Fast and lightweight.
 
 ## How to start
-* 1 go to output
-* 2 open file  'Calculator.exe'
+* 1 go to releases
+* 2 select version and download file
